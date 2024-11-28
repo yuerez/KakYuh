@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482027823337",
+    "project_id": "dimkakyuh",
+    "storage_bucket": "dimkakyuh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482027823337:android:d110d51be9073f86b71078",
+        "android_client_info": {
+          "package_name": "com.mycompany.kakyuh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGcaBRiWRWXZHOoc4yCAS_2TniyZ6Zfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
